@@ -1,0 +1,2 @@
+# premium-v-anvil-001-v-anvil-block-channel-hold-s
+Tired of losing track of your channel stock sizes and anvil block inventory mid-project? Stop digging through cluttered spreadsheets and wasted materials—this Notion template puts every hold stock detail at your fingertips.  The V Anvil Block &amp; Channel Hold Stock Craft Hub centralizes your entire stock library, from block dimensions to channel hold
